@@ -7,7 +7,7 @@ using Microsoft.Owin.Security.Google;
 using Owin;
 using WAD_Practical.Models;
 
-namespace T2008M_WAD_Exam
+namespace WAD_Practical
 {
     public partial class Startup
     {
